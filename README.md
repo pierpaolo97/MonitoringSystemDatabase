@@ -1,6 +1,6 @@
 # MonitoringSystemDatabase
 
-![LOGIN](LogIne.jpg)
+![LOGIN](LogIne.png)
 
 ITA
 
@@ -12,5 +12,5 @@ ENG
 This project is based on the creation of a database system (VBA, SQL) which has to assist experts in selecting the best management strategies and clinical decisions for each patient. 
 The system includes three different kinds of actors: the specialized practitioners, the technical administrator and the patients. Each one of them have different user interfaces and different interaction with the system because of their different aims. In the image there is an example of the interface where the patient can visulize all diponisable visits.
 
-![VISIT](Visit.jpg)
+![VISIT](Visit.png)
 
